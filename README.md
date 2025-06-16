@@ -73,4 +73,4 @@ Make sure to set these environment variables in your Vercel project settings:
 
 ## License
 
-MIT 
+MIT
